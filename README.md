@@ -1,13 +1,12 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [OBJETOS INTELIGENTES CONECTADOS] 2 sem. 2018
 
-## Turma XXX
+## Turma 05J12
 ## Projeto: "nome do projeto"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Gabriel Lemos do Nascimento
+* Gabriela Duarte Calderone
+
 
 ## Descrição resumida do projeto
 
